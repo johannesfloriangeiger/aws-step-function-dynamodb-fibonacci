@@ -1,0 +1,11 @@
+# IntelliJ
+.idea
+*.iml
+
+# Terraform
+.terraform
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+lambda-placeholder.zip
+terraform.tfstate
+terraform.tfstate.backup
